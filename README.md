@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # R-Programming: Let's Play with the Data
 
 ![Data Analysis](/img/Rstudio.png)
