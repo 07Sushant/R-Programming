@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # R-Programming: Let's Play with the Data
 
 ![Data Analysis](/img/Rstudio.png)
@@ -12,3 +13,7 @@ simply run using Rscript filename.r
 ### In Rstudio
 Run the file on the console using 
 source("path/to/your/script.R")
+=======
+# R-Programming
+Machine Learning Data Analysis 
+>>>>>>> eeafe35810bf1197049918aeb7d3a5e7c0c5a11b
