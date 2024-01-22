@@ -26,3 +26,6 @@ print(class(b3))
 # Complex Datatypes
 c1 <- 6+3i
 print(class(c1))
+
+# Raw Datatypes
+# as.raw is used to create a raw vector with hexadecimal values. Raw vectors are typically used when working with binary data or low-level data manipulation.
