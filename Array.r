@@ -37,6 +37,7 @@ print(my_matrix)
 
 
 # create and array of 4 4 5
+my_Array =  
 # assign name to the element of an array
 #  Access al rows of matrix 1 
 # Access 2nd and 3rd column of 2nd ,matric 
@@ -46,3 +47,6 @@ print(my_matrix)
 # use apply function ND perform sum
 # use apply function and perform sum on column
 # create two arrays and perform all arthimetic operation
+ 
+
+ 
