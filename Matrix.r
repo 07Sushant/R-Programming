@@ -57,9 +57,15 @@ my_Matrix <- matrix(1:30, nrow = 5)
 new_row <- c(5,6,7)
 new_row2 <-c(4,2,3)
 
-my_new_matrix<- rbind(my_Matrix,new_row,new_row2)
+new_col <- c(1,2,3)
+new_col2 <-c(1,2,3)
+
+my_new_matrix<-cbind(my_Matrix,new_col,new_col2)
+# my_new_matrix<-rbind(my_Matrix,new_row,new_row2)
 print(my_new_matrix)
 
 # Transpose of a matrix 
 my_transpose_matrix<- t(my_new_matrix)
 print(my_transpose_matrix)
+
+
