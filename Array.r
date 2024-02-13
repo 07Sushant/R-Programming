@@ -20,7 +20,7 @@ print(array_1d)
 
 
 
-# Access at index
+# Access at index   
 array_1d <- array_1d[2]
 
 # Replace the element at the index
