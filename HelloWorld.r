@@ -4,5 +4,4 @@ a<-list(c("Ankit","Mani", "Sushant","Namit"),
         list("Delhi", "Mumbai", "jammu", "Kashmir"))
 
 
-a[[3]] <- a[[3]][a[[3]] != 8]
-
+a[[3]] <- a[[3]] != ""[a[[3]] != 8]

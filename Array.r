@@ -49,4 +49,3 @@ my_Array =
 # create two arrays and perform all arthimetic operation
  
 
- 
