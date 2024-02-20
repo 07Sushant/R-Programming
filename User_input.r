@@ -1,10 +1,10 @@
 # Taking input for different data types in R
 
-# 1 String
+#1 String
 name <- readline("Enter your name: ")
 cat("My name is :", name, "\n")
 
-# 2 Numeric 
+#2 Numeric 
 age <- as.numeric(readline("Enter your age: "))
 cat("My age is : ", age, "\n")
 
@@ -31,5 +31,5 @@ num3 <- as.numeric(readline("Enter the third number: "))
 cat("The sum is : ", num1 + num2 + num3)
 
 
-#  For Rstudio Don't select All and RUN just use this way to run your file on console for inputs
-#  source(PATH  till    .r of your file) then it will work
+# #  For Rstudio Don't select All and RUN just use this way to run your file on console for inputs
+# #  source(PATH  till    .r of your file) then it will work
