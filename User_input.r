@@ -1,10 +1,10 @@
 # Taking input for different data types in R
 
-#1 String
+# 1 String
 name <- readline("Enter your name: ")
 cat("My name is :", name, "\n")
 
-#2 Numeric 
+# 2 Numeric 
 age <- as.numeric(readline("Enter your age: "))
 cat("My age is : ", age, "\n")
 
