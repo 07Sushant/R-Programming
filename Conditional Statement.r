@@ -1,20 +1,7 @@
-# If Statement
 
-a<-10
-b<-20
-if(a<b)
-{
-    print("Working")
+# While loop
+a <- as.numeric(readline(prompt = "Enter a number: "))
+while (a<100) {
+  print("Sushant")
+  
 }
-
-
-# Else If
-a<-10
-b<-20
-if(a<b){
-    print("Working")
-} else if (a>b)
-{
-    print("Not Working")
-} 
- 
