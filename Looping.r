@@ -11,19 +11,29 @@ while (a < 10) {
 }
 
 # Repeat Loop
-
+# 1 Example
 v<-c("Hello Sushant")
 x<-2
 repeat{
     print(v)
     x<-x+1
-    if(x>5){
+    if(x>11){
     break
     }
 }
 
+# Example 2
+p<-c("Pass")
+f<-c("fail")
 
-
+x<-2
+repeat{
+    print(v)
+    x<-x+1
+    if(x>11){
+    break
+    }
+}
 # Break
 
 i <- 1
