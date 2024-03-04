@@ -12,7 +12,7 @@ a[1:3,]
 a[,3]
 
 # Display the 567th column
-a[,567]
+a[,5:7]
 
 # Display the element in the 1st row and 3rd column
 a[1,3]
